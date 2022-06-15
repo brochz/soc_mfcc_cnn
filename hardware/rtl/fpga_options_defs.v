@@ -1,0 +1,2 @@
+`define SIMULATION
+`define RAMPRELOAD_SPI

@@ -1,0 +1,39 @@
+{
+    "Modules": {
+        "...MASTER...": {},
+        "task_tb": {
+            "Compiled": "Yes",
+            "Compiled Times": 1
+        }
+    },
+    "CompUnits": {
+        "amcQw_d": {
+            "mod": "...MASTER...",
+            "out": "objs/amcQw_d.o",
+            "bytes": 7266,
+            "mode": 4,
+            "checksum": 4294967295
+        },
+        "R3uAU_d": {
+            "mod": "task_tb",
+            "out": "R3uAU_d.o",
+            "bytes": 13500,
+            "mode": 4,
+            "checksum": 4294967295,
+            "archive": "archive.0/_140537_archive_1.a"
+        }
+    },
+    "reusePaths": {},
+    "ObjArchives": [
+        {
+            "size": 13500,
+            "archive": "archive.0/_140537_archive_1.a",
+            "objects": [
+                [
+                    "R3uAU_d.o",
+                    13500
+                ]
+            ]
+        }
+    ]
+}
